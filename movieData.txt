@@ -1,0 +1,8 @@
+searching movie
+-----------------
+title: Dream
+duration: 120
+rating: high
+showtimes: 20:00, 22:00
+seatNumber: 007
+-----------------------
